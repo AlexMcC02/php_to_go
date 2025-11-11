@@ -8,7 +8,7 @@ import "fmt"
 // Echo out buzz if divisible by 5.
 // Echo out fizzbuzz if divisible by 3 or 5 (or 15).
 
-func main() {
+func fizzbuzz() {
 	for i := 1; i <= 100; i++ {
 		if (i % 15 == 0) {
 			fmt.Printf("%d FizzBuzz!\n", i)
