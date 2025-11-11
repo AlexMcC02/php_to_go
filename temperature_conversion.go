@@ -31,7 +31,7 @@ func choicer(running *bool) {
 	}
 }
 
-func main() {
+func temperature_conversion() {
 	var running bool = true
 
 	for running {
