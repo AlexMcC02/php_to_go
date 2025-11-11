@@ -6,7 +6,7 @@ import (
 	"strconv"
 )
 
-func main() {
+func argcalc() {
 	if (len(os.Args) < 4) {
 		panic("Correct use: go run <file> <x> <operator> <y>.")
 	}
