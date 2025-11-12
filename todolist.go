@@ -36,7 +36,7 @@ func listChoicer(todoList *[]string, running *bool) {
 	}
 }
 
-func main() {
+func todolist() {
 	var todoList = []string {"- Clean my room", "- Do the dishes"}
 	var running = true
 

@@ -1,0 +1,54 @@
+{
+   "contacts": [
+     {
+       "name": "John Smith",
+       "email": "example@email.com",
+       "telephone": "12345678901"
+     },
+     {
+       "name": "Jane Doe",
+       "email": "jane.doe@example.com",
+       "telephone": "19876543210"
+     },
+     {
+       "name": "Michael Johnson",
+       "email": "michael.johnson@example.com",
+       "telephone": "12125551234"
+     },
+     {
+       "name": "Emily Davis",
+       "email": "emily.davis@example.com",
+       "telephone": "14155557890"
+     },
+     {
+       "name": "David Chen",
+       "email": "david.chen@example.com",
+       "telephone": "16175559876"
+     },
+     {
+       "name": "Sophia Martinez",
+       "email": "sophia.martinez@example.com",
+       "telephone": "17185552345"
+     },
+     {
+       "name": "Olivia Brown",
+       "email": "olivia.brown@example.com",
+       "telephone": "19105553456"
+     },
+     {
+       "name": "Ethan Taylor",
+       "email": "ethan.taylor@example.com",
+       "telephone": "11025557891"
+     },
+     {
+       "name": "Ava Patel",
+       "email": "ava.patel@example.com",
+       "telephone": "12035551234"
+     },
+     {
+       "name": "Alex McCullough",
+       "email": "alexmccullough@outlook.com",
+       "telephone": "07566273138"
+     }
+   ]
+ }
